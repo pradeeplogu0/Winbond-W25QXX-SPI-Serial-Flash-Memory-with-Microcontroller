@@ -6,7 +6,7 @@ The Winbond Flash Memory provides extended megabits and bytes serial flash, used
 ![This is an image](https://raw.githubusercontent.com/pradeeplogu0/Winbond-W25QXX-SPI-Serial-Flash-Memory-with-Microcontroller/master/windbond-spi-flash-memory-W25Q80BV-8bit-storage-wiring-guide.jpg)
 
 ## Guide
-> Use original codes with Arduino ide to communicate with Flah Device.
+> Use original codes with Arduino ide to communicate with Flash Device.
 
 ## Note
 > Work files are not completed.
